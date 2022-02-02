@@ -2,14 +2,11 @@
 
 All licenses for the resources used from the given repos are in the following repos
 
-- [Hadley](https://github.com/hadley/data-baby-names)
-  No license
+- [Hadley](https://github.com/hadley/data-baby-names) -> No license
 
-- [SajjadPourali](https://github.com/SajjadPourali/Surnames)
-  [GNU General Public License v3.0](https://github.com/SajjadPourali/Surnames/blob/master/LICENSE)
+- [SajjadPourali](https://github.com/SajjadPourali/Surnames) -> [GNU General Public License v3.0](https://github.com/SajjadPourali/Surnames/blob/master/LICENSE)
 
-- [Smashew](https://github.com/smashew/NameDatabases)
-  [The Unlicense](https://github.com/smashew/NameDatabases/blob/master/LICENSE)
+- [Smashew](https://github.com/smashew/NameDatabases) -> [The Unlicense](https://github.com/smashew/NameDatabases/blob/master/LICENSE)
 
 # REPO LICENCE
 
