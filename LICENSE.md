@@ -1,4 +1,4 @@
-#FOREIGN LICENSES
+# FOREIGN LICENSES
 
 All licenses for the resources used from the given repos are in the following repos
 
